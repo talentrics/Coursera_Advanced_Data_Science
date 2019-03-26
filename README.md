@@ -1,4 +1,4 @@
-**Coursera IBM Advanced Data Science Certificate**
+**Coursera Advanced Data Science Certificate with IBM**
 
 Project notebooks for assignments in Coursera IBM Advanced Data Science Certificate.
 https://www.coursera.org/specializations/advanced-data-science-ibm
@@ -10,3 +10,5 @@ Course 2 - Advanced Machine Learning & Signal Processing
 Course 3 - Applied AI with DeepLearning
 
 Course 4 - Advanced Data Science Capstone
+
+Coursework completed and submitted as part of the certification process - Q2 2019

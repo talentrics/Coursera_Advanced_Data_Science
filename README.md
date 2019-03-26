@@ -1,4 +1,4 @@
-Coursera IBM Advanced Data Science Certificate
+**Coursera IBM Advanced Data Science Certificate**
 
 Project notebooks for assignments in Coursera IBM Advanced Data Science Certificate.
 https://www.coursera.org/specializations/advanced-data-science-ibm

@@ -3,7 +3,7 @@
 Project notebooks for assignments in Coursera IBM Advanced Data Science Certificate.
 https://www.coursera.org/specializations/advanced-data-science-ibm
 
-Course 1 - Fundamentals of Scalable Data Science
+#Course 1 - Fundamentals of Scalable Data Science#
 
 - data source: download cloud object data simulating IoT connected device
 - Assignment 2: conduct basic queries (count,# of Fields, & Field Titles)

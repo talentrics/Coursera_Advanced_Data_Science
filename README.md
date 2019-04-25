@@ -10,7 +10,10 @@ https://www.coursera.org/specializations/advanced-data-science-ibm
 - Assignment 3: statistical analysis (min,max,mean,sd,skew,kurtosis,& correlation)
 - Assignment 4: plotting using Spark data (histogram, boxplot, & time series)
 
-Course 2 - Advanced Machine Learning & Signal Processing
+**Course 2 - Advanced Machine Learning & Signal Processing**
+
+- data source: download cloud object data simulating IoT connected device
+- Assignment 2: pyspark.ml Vectorassembler & Classification - Pipeline Fit/Test
 
 Course 3 - Applied AI with DeepLearning
 

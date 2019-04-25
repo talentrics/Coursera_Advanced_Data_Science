@@ -14,6 +14,8 @@ https://www.coursera.org/specializations/advanced-data-science-ibm
 
 - data source: download cloud object data simulating IoT connected device
 - Assignment 2: pyspark.ml Vectorassembler & Classification - Pipeline Fit/Test
+- Assignment 3: pyspark.ml Vectorassembler & KMeans Clustering - Fit/Test
+- Assignment 4: 
 
 Course 3 - Applied AI with DeepLearning
 
